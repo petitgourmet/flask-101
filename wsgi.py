@@ -1,4 +1,5 @@
 # wsgi.py
+### heroku create myapp --buildpack heroku/python
 # pylint: disable=missing-docstring
 
 from flask import Flask
